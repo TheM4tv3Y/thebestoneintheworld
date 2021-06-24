@@ -1,0 +1,157 @@
+body {
+    font-family: segoe print;
+    background-color: greenyellow
+}
+nav{
+    color: rgb(65, 167, 161);
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    border-bottom: 2px solid rgb(10, 10, 10);
+    border-top: 2px solid green;
+}
+
+.link-header{
+    background-color: green;
+    border: 3px dashed black;
+    padding: 5px;
+    margin: 30px;
+    text-align: center;
+}
+.link-header{
+    color: black;
+    box-shadow: 5px 5px 5px 3px blue;
+    padding: 10px;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, rgb(22, 53, 158), rgb(105, 194, 105), rgb(196, 21, 102));
+}
+.link-nav2{
+    color: black;
+    box-shadow: 5px 5px 5px 3px blue;
+    padding: 10px;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, rgb(22, 53, 158), rgb(105, 194, 105), rgb(196, 21, 102));
+}
+.link-nav{
+    color: black;
+    box-shadow: 5px 5px 5px 3px blue;
+    padding: 10px;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, rgb(22, 53, 158), rgb(105, 194, 105), rgb(196, 21, 102));
+}
+body {
+    font-family: mv boli;
+    background-color: greenyellow;
+}
+.link-text{
+    background-image: linear-gradient(to right, blue, green);
+    color: aquamarine
+}
+.link-header{
+    background-image: linear-gradient(to right, red, green, blue);
+    color: aquamarine;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+body {
+    font-family: segoe print;
+    
+}
+.zagolovok{
+    text-align: center;
+    background-color: tomato;
+    opacity: 0.6;
+    box-shadow: 7px 3px 0 2px violet;
+}
+.done{ 
+   background-color: green; 
+   opacity: 0.8;
+}
+.dtwo{
+    background-color: rgb(233, 21, 21); 
+   opacity: 0.8;
+}
+nav{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding: 7px;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.one{
+    text-align: left;
+}
+.two{
+    position: center;
+}
+footer{
+    background-color: darkblue;
+    opacity: 0.8;
+}
+li{
+    color: black;
+}
+a{
+    color: black;
+}
+body {
+    font-family: segoe print;
+    background-image: linear-gradient(to right, blue, purple, gray)
+}
+nav{
+    color: rgb(65, 167, 161);
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    border-bottom: 2px solid rgb(10, 10, 10);
+    border-top: 2px solid green;
+}
+
+.link-header{
+    background-color: green;
+    border: 3px dashed black;
+    padding: 5px;
+    margin: 30px;
+    text-align: center;
+}
+.link-header{
+    color: black;
+    box-shadow: 5px 5px 5px 3px blue;
+    padding: 10px;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, rgb(22, 53, 158), rgb(105, 194, 105), rgb(196, 21, 102));
+}
+.link-nav2{
+    color: black;
+    box-shadow: 5px 5px 5px 3px blue;
+    padding: 10px;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, rgb(22, 53, 158), rgb(105, 194, 105), rgb(196, 21, 102));
+}
+.link-nav{
+    color: black;
+    box-shadow: 5px 5px 5px 3px blue;
+    padding: 10px;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, rgb(22, 53, 158), rgb(105, 194, 105), rgb(196, 21, 102));
+}
+footer{
+    background-image: linear-gradient(to right,  rgb(22, 53, 158), rgb(105, 194, 105), rgb(196, 21, 102));
+    border-top: 3px solid black;
+}
+img{
+    border: 3px dashed black;
+}
+ol{
+    background-color: greenyellow;
+    text-decoration: none;
+}
+main{
+    background-color: greenyellow;
+}
